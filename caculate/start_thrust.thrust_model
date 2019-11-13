@@ -1,0 +1,3 @@
+type = NormalThrustModel
+ts = 0
+thrusts = 1500

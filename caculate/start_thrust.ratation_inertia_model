@@ -1,0 +1,5 @@
+type = GeneralRotationInertiaModel
+ts = 0 5
+JXs = 0.024 0.017
+JYs = 1.57 1.08
+JZs = 1.57 1.08

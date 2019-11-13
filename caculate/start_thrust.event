@@ -1,0 +1,4 @@
+mass_model = start_thrust.mass_model
+thrust_model = start_thrust.thrust_model
+ratation_inertia = start_thrust.ratation_inertia_model
+aero_model = start_thrust.aero_model

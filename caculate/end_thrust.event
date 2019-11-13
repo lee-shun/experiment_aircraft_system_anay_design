@@ -1,0 +1,4 @@
+mass_model = 0
+thrust_model = 0
+ratation_inertia = end_thrust.ratation_inertia_model
+aero_data = 9m117集成测试数据\0.565\弹道计算用气动参数

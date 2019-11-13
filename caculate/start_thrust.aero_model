@@ -1,0 +1,5 @@
+type = ThrustAerodynamicModel
+aero_data_before = 9m117集成测试数据\0.58\弹道用气动数据
+aero_data_after = 9m117集成测试数据\0.565\弹道计算用气动参数
+t_array = 0 5
+xc_array = 0.58 0.56

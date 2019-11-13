@@ -1,0 +1,3 @@
+type = ThreePointNav_Ideal
+guidance_movement_filepath = 9m117集成测试数据\station.txt
+target_movement_filepath = 9m117集成测试数据\target.txt

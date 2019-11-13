@@ -1,0 +1,4 @@
+type = FixedRotationInertiaModel
+JX=0.017
+JY=1.08
+JZ=1.08

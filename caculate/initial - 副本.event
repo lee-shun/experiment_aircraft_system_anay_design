@@ -1,0 +1,8 @@
+platform_altitude = 0
+step = 0.01
+states=states.txt
+ratation_inertia=initial.ratation_inertia_model
+aero_data = D:\304\集成测试数据\9m117集成测试数据\0.58\弹道用气动数据
+mass_model = 0
+thrust_model = 0
+ideal_control_model = DeltaYZ0.control_model
